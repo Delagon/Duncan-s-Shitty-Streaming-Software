@@ -6,7 +6,9 @@ In a mear 15 lines of code you too can stream to you're own browser (you will ne
 Requirements
   - Python
   - pyscreenshot
+  
 Running
-  - Run stream.py with python
+  - Run "python stream.py"
+  - Run "python -m SimpleHTTPServer"
   - open the index file in your browser
   - enjoy
