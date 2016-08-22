@@ -1,0 +1,11 @@
+<script>
+function load() {
+  var i = document.getElementById("img")
+  i.src = "screenshot.png?" + Math.random()
+  setTimeout(load, 100)
+}
+
+</script>
+<body onload="load()">
+<img id="img" src="screenshot.png"/>
+</body>
