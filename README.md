@@ -8,7 +8,7 @@ Requirements
   - pyscreenshot
   
 Running
-  - Run "python stream.py"
+  - Run "python stream.py [optional, x1, y1, x2, y2 for screen box]" 
   - Run "python -m SimpleHTTPServer"
   - open the index file in your browser
   - enjoy
